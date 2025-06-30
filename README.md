@@ -1,8 +1,10 @@
-<p align="center">
-  <img src="https://img.icons8.com/color/96/artificial-intelligence.png" alt="AI Icon" />
-</p>
+
 
 <h1 align="center">TruthLens – Hallucination Detection System</h1>
+<p align="center">
+  <img src="TruthLens.png" alt="TruthLens Logo" width="250"/>
+</p>
+
 
 <p align="center">
   <i>Detects hallucinated content in LLM-generated outputs using real-time semantic similarity and fact verification.</i>
