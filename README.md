@@ -41,7 +41,7 @@ TruthLens is a lightweight hallucination detection system that verifies the fact
 
 ## Demo
 
-![TruthLens UI Screenshot](screenshots/demo.png)  
+![TruthLens UI Screenshot](output.png)  
 *Screenshot of the Streamlit interface with verdict and fact output.*
 
 
